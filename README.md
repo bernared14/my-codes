@@ -1,4 +1,4 @@
-# My-Python-learning-journey
+# My Python learning journey
 
 PORTUGUÊS 🇧🇷
 - Esse projeto é especializado para o meu **desenvolvimento** com os estudos e prática com a *linguagem de programação Python*.
