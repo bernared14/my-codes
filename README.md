@@ -8,10 +8,10 @@ ENGLISH 🇺🇸
 - This project is specifically designed for my development through studies and practice with the *Python programming language*.
 - ⚠️ **Warning:** This project is still under development.
 
+ESPAÑOL 🇪🇸
+- Este proyecto está diseñado específicamente para mi desarrollo a través del estudio y la práctica del *lenguaje de programación Python*.
+- ⚠️ **Advertencia:** Este proyecto aún está en desarrollo.
+
 FRANÇAIS 🇫🇷
 - Ce projet est spécifiquement conçu pour mon développement à travers l'étude et la pratique du *langage de programmation Python*.
 - ⚠️ **Avertissement :** Ce projet est encore en développement.
-
-## Technologies used
-1. Python
-2. VSCode
