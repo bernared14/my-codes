@@ -1,1 +1,1 @@
-# my-codes
+# My-Python-learning-journey
