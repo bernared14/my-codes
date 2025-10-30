@@ -10,5 +10,5 @@ FRANÇAIS 🇫🇷
 - Ce projet est spécifiquement conçu pour mon **développement** à travers l'étude et la pratique du *langage de programmation Python*.
 
 ## Technologies used
-- Python
-- VSCode
+1. Python
+2. VSCode
