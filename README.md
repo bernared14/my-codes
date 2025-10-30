@@ -1,6 +1,6 @@
 # My Python learning journey
 
-## Português (Brasil) 🇧🇷
+## Português 🇧🇷
 Esse projeto é especializado para o meu desenvolvimento com os estudos e prática com a *linguagem de programação Python*.
 
 ⚠️ **Atenção:** este projeto ainda está em desenvolvimento.
