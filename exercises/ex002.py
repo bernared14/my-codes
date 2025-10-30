@@ -3,5 +3,5 @@
 # Escribe un programa que lea el nombre de una persona y muestre un mensaje de bienvenida. 🇪🇸
 # Écrivez un programme qui lit le nom d'une personne et affiche un message de bienvenue. 🇫🇷
 
-nome = str(input("Enter your name: "))
-print(f"Hello, {nome}!")
+name = str(input("Enter your name: "))
+print(f"Hello, {name}!")
